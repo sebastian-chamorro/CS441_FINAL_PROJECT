@@ -1,4 +1,4 @@
-## Zero-Shot Sports Event Categorization
+## Zero-Shot Sports Event Categorization 🏎️ ⚽ 🥊 🎾
 This project uses a Multi-Layer Perceptron to classify unseen sports events into one 
 of five categories (Offensive, Defensive, Error, Transition, Neutral) to help individuals
 become more familiar with new sports lingo in various settings from watching to playing sports.

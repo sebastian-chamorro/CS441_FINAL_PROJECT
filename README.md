@@ -14,7 +14,7 @@ become more familiar with new sports lingo in various settings from watching to 
 Used model:
 * Multi-Layer Perceptron
 
-Baseline Models used for comparison:
+Baseline models used for comparison:
 * Logistic Regression
 * Linear SVM
 ### Methods of Quantitative Evidence

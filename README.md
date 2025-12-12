@@ -13,6 +13,7 @@ become more familiar with new sports lingo in various settings from watching to 
 ### Model Architecture
 Used model:
 * Multi-Layer Perceptron
+
 Baseline Models used for comparison:
 * Logistic Regression
 * Linear SVM

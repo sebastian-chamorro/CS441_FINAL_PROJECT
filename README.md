@@ -11,16 +11,17 @@ become more familiar with new sports lingo in various settings from watching to 
 
 ## Model Architecture
 Used model:
-- Multi-Layer Perceptron
-Baseline Mmdels used for comparison:
-- Logistic Regression
-- Linear SVM
+* Multi-Layer Perceptron
+
+Baseline Models used for comparison:
+* Logistic Regression
+* Linear SVM
 
 ## Methods of Quantitative Evidence
-- Best validation accuracy for choosing best MLP model
-- Average and standard deviation of test accuracy
-- Best single-run test accuracy for choosing best model
+* Best validation accuracy for choosing best MLP model
+* Average and standard deviation of test accuracy
+* Best single-run test accuracy for choosing best model
 
 ## Methods of Qualitative Evidence
-- PCA Clustering
-- Nearest-Neighbors
+* PCA Clustering
+* Nearest-Neighbors
